@@ -36,6 +36,11 @@ h2, p {
  padding-top: 20px;
 }
 
+#patent {
+  color: black;
+  text-align: center;
+}
+
 .jumbotron-background {
   object-fit:cover;
   font-family: 'object-fit: cover;';
